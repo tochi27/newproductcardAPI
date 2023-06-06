@@ -1,6 +1,6 @@
 document.title = "product cards";
 
-const url = `http://fakestoreapi.com/products`;
+const url = `https://fakestoreapi.com/products`;
 const containerEl = document.querySelector(".container");
 
 fetch(url)
